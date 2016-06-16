@@ -17,7 +17,7 @@ Some code snippets in Scala:
 
 ## TODO
 
-- [x] Add links to Scala snippets in (Gist)[https://gist.github.com/flopezlasanta]
+- [x] Add links to Scala snippets in [Gist](https://gist.github.com/flopezlasanta)
 - [x] Use [ScalaTest](http://www.scalatest.org/), automated testing for Scala
 - [ ] Use [ScalaCheck](https://www.scalacheck.org/), property-based testing for Scala
 - [ ] Use [ScalariForm](http://scala-ide.org/scalariform/), code formatter for Scala
