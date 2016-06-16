@@ -12,8 +12,8 @@ Some exercises here included are:
 
 ## Gists
 Some code snippets in Scala:
-* (Measure.scala)[https://gist.github.com/flopezlasanta/429a8eaf7edb81a42e2663e6c23214c2]
-* (Control.scala)[https://gist.github.com/flopezlasanta/c4c251a58f3b7e61a575f358321767b2]
+* [Measure.scala](https://gist.github.com/flopezlasanta/429a8eaf7edb81a42e2663e6c23214c2)
+* [Control.scala](https://gist.github.com/flopezlasanta/c4c251a58f3b7e61a575f358321767b2)
 
 ## TODO
 
