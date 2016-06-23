@@ -1,7 +1,7 @@
 # Scala Sandbox
 Scala examples
 
-[![Travis CI Status](https://travis-ci.org/flopezlasanta/scala-sandbox.svg?branch=master)](https://travis-ci.org/flopezlasanta/scala-sandbox) [![License](https://img.shields.io/github/license/mashape/apistatus.svg)(https://opensource.org/licenses/MIT)
+[![Travis CI Status](https://travis-ci.org/flopezlasanta/scala-sandbox.svg?branch=master)](https://travis-ci.org/flopezlasanta/scala-sandbox) [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
 ## Summary
 This a personal project for practicing with Scala programming language, with special interest in exploring tools for enhancing code quality (see below).
